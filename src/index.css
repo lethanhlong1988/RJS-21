@@ -10,7 +10,7 @@
 
   color-scheme: light dark;
   color: rgba(0, 0, 0, 0.87);
-  background-color: #ffffff;
+  background-image: linear-gradient(to bottom right, #ffffff00, #cfcfcf);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
